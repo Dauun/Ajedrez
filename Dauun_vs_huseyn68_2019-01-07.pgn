@@ -1,0 +1,15 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2019.01.07"]
+[White "Dauun"]
+[Black "huseyn68"]
+[Result "1-0"]
+[ECO "B03"]
+[WhiteElo "1736"]
+[BlackElo "1830"]
+[TimeControl "300"]
+[EndTime "23:22:23 PST"]
+[Termination "Dauun won by resignation"]
+[CurrentPosition "r2q1r1k/1pp1bpp1/pnn1p2B/4P3/2PPN3/6R1/PP1QB1PP/3R2K1 b - - 0 17"]
+
+1.e4 {[%clk 0:04:59]} Nf6 {[%clk 0:04:56]} 2.e5 {[%clk 0:04:50]} Nd5 {[%clk 0:04:54]} 3.d4 {[%clk 0:04:41]} d6 {[%clk 0:04:52]} 4.c4 {[%clk 0:04:26]} Nb6 {[%clk 0:04:50]} 5.f4 {[%clk 0:04:16]} dxe5 {[%clk 0:04:48]} 6.fxe5 {[%clk 0:04:09]} Nc6 {[%clk 0:04:47]} 7.Be3 {[%clk 0:03:59]} Bf5 {[%clk 0:04:44]} 8.Nf3 {[%clk 0:03:47]} Bg4 {[%clk 0:04:41]} 9.Nbd2 {[%clk 0:03:38]} e6 {[%clk 0:04:37]} 10.Be2 {[%clk 0:03:24]} Bb4 {[%clk 0:04:35]} 11.O-O {[%clk 0:03:14]} O-O {[%clk 0:04:29]} 12.Ne4 {[%clk 0:03:00]} Bxf3 {[%clk 0:04:21]} 13.Rxf3 {[%clk 0:02:48]} Be7 {[%clk 0:04:18]} 14.Qd2 {[%clk 0:02:40]} a6 {[%clk 0:04:11]} 15.Rd1 {[%clk 0:02:23]} h6 {[%clk 0:04:02]} 16.Rg3 {[%clk 0:02:13]} Kh8 {[%clk 0:03:57]} 17.Bxh6 {[%clk 0:02:04]}  1-0
