@@ -1,0 +1,15 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2019.01.07"]
+[White "stasharrofi"]
+[Black "Dauun"]
+[Result "0-1"]
+[ECO "B20"]
+[WhiteElo "1695"]
+[BlackElo "1719"]
+[TimeControl "300"]
+[EndTime "22:52:58 PST"]
+[Termination "Dauun won by checkmate"]
+[CurrentPosition "1r1q1rk1/p4pp1/2pb2np/2pp1b2/8/1PNP1N1P/P1P1QPP1/R1B2RK1 w - - 1 15"]
+
+1.e4 {[%clk 0:04:58]} c5 {[%clk 0:04:53]} 2.Bc4 {[%clk 0:04:55]} e6 {[%clk 0:04:38]} 3.d3 {[%clk 0:04:51]} d5 {[%clk 0:04:22]} 4.exd5 {[%clk 0:04:49]} exd5 {[%clk 0:04:19]} 5.Qe2+ {[%clk 0:04:48]} Be6 {[%clk 0:04:07]} 6.Bb5+ {[%clk 0:04:47]} Nc6 {[%clk 0:03:54]} 7.Bxc6+ {[%clk 0:04:44]} bxc6 {[%clk 0:03:50]} 8.Nf3 {[%clk 0:04:44]} Bd6 {[%clk 0:03:32]} 9.O-O {[%clk 0:04:41]} Ne7 {[%clk 0:03:18]} 10.Ng5 {[%clk 0:04:39]} Bf5 {[%clk 0:02:59]} 11.Nc3 {[%clk 0:04:27]} h6 {[%clk 0:02:43]} 12.Nf3 {[%clk 0:04:23]} O-O {[%clk 0:02:32]} 13.h3 {[%clk 0:04:21]} Rb8 {[%clk 0:02:17]} 14.b3 {[%clk 0:04:18]} Ng6 {[%clk 0:02:03]} 15.Bb2 {[%clk 0:04:14]} Re8 {[%clk 0:01:49]} 16.Qd2 {[%clk 0:04:09]} Qd7 {[%clk 0:01:30]} 17.Rfe1 {[%clk 0:04:01]} Bf4 {[%clk 0:01:13]} 18.Qd1 {[%clk 0:03:41]} Bxh3 {[%clk 0:01:07]} 19.gxh3 {[%clk 0:03:38]} Qxh3 {[%clk 0:01:02]} 20.Rxe8+ {[%clk 0:03:36]} Rxe8 {[%clk 0:00:55]} 21.Na4 {[%clk 0:03:33]} Nh4 {[%clk 0:00:41]} 22.Nxh4 {[%clk 0:03:31]} Qh2+ {[%clk 0:00:32]} 23.Kf1 {[%clk 0:03:24]} Qh1# {[%clk 0:00:24]}  0-1
